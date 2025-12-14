@@ -121,7 +121,7 @@ List of Students:
 ## Project Structure
 
 ```sh
-gse301-python-project/
+SAPAS/
 │
 ├── student_analysis.py    # Main Python script
 ├── README.md             # This file
