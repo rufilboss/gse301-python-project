@@ -134,14 +134,6 @@ SAPAS/
 
 ## Code Features
 
-### Clean and Beginner-Friendly
-
-- Well-commented code explaining each section
-- Clear function names and variable names
-- Organized into logical sections
-- Error handling for user input
-- Helpful messages and feedback
-
 ### Key Python Concepts Demonstrated
 
 1. **Data Types**: String, int, float, bool, list, dict, set, tuple
@@ -155,28 +147,4 @@ SAPAS/
 9. **Functions**: Modular, reusable code
 10. **Dictionaries**: Nested data structures for student profiles
 
-## Author
-
-[Your Name]
-[Your Matric Number]
-
-## Course Information
-
-- **Course**: GSE301 Data Science: Python Fundamentals
-- **Project Duration**: 4 days
-- **Format**: Individual or paired project
-
-## Notes
-
-- This project is designed for educational purposes
-- All data is mock/sample data
-- The code follows Python best practices and PEP 8 style guide
-- Suitable for beginners learning Python fundamentals
-
-## Biggest Challenge
-
-[Describe your biggest challenge while working on this project]
-
 ---
-
-**Note**: Remember to tag @UnilorinNGR, @AbidoyeAbdulmjeeb, @GSE301 in your project post!
